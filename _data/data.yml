@@ -3,187 +3,199 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Carl Mowday
+  tagline: Into the unknown
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: carl@mowday.se
+  phone: +46 766 106 753
+  website: mowday.github.io #do not add http://
+  linkedin: mowday
+  github: mowday
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: 3350221/mowday # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pgpfingerprint: 1235 0770 E137 2A17 859D
 
-    languages:
-      - idiom: English
-        level: Native
+  languages:
+    - idiom: English
+      level: Native
 
-      - idiom: French
-        level: Professional
+    - idiom: Swedish
+      level: Native
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+  # interests:
+  #   - item: Climbing
+  #     link:
+  #   - item: Snowboarding
+  #     link:
+  #   - item: Cooking
+  #     link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Career Profile
+  summary: |
+    I’m a highly result-driven individual with great analytical skills that feed on finding 
+    solutions. The harder the situation the more rewarding it is to finally find the solution
+    that will hold.
+
+    My ability to unite people towards a common goal and vision is one of my key strengths
+    and I love talking in front of people. To inspire and being inspired by stepping out of the
+    comfort zone and seeing what we could do if we reached just a little bit farther, letting
+    passion and curiosity move us forward.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+  - degree: Computer Programming
+    university: John Bauergymnasiet
+    time: 2004 - 2007
+    details:
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - role: Product Manager
+    time: Jan 2019 - Present
+    company: IST Group, Växjö
+    details: |
+      The need for a solid platform to run tomorrows school software created a new
+      product and department to better focus on the underlying infrastructure. This also
+      included preparing and including functionality to bridge ISTs private cloud with
+      public cloud vendors.
+  - role: Architect Manager
+    time: Dec 2014 - Jan 2019
+    company: IST Group, Växjö
+    details: |
+      Steering technology choices and improving the developer experience as well
+      as speed and reliability by focusing on creating a solid foundation to build
+      the next generation of school software on. This included switching to GIT to
+      better allow for parallel development. The running of software switched
+      to Docker from traditional hands-on operations, including automatic service
+      discovery, loadbalancing and auto healing capabilities.
+  - role: Client Sided Architect
+    time: Sep 2013 - Dec 2014
+    company: Play'n GO, Växjö
+    details: |
+      By utilising the latest technologies Play'N GO delivers some of the markets
+      best mobile based games to date.
+      The client sided architect was responsible for supervising the general game
+      development, integrating the external libraries and optimising the framework
+      to get the best player experience possible.
+      Part of the job also involved developing strategies for parallel development
+      and fast-paced agile deliveries.
+  - role: Solution Architect
+    time: Apr 2012 - Sep 2013
+    company: GTECH G2, London
+    details: |
+      Responsible to design and tweak the techinical solution to suit the needs of
+      our customers. Data migration of player accounts, performance, regulatory
+      requirements and security are all a part of the technical solution that needs
+      to be considered.
+  - role: Game Client Architect
+    time: Mar 2011 - Apr 2012
+    company: GTECH G2, London
+    details: |
+      Architect over client sided development and framework. Responsible for the
+      technical design, architecture and build system of Instant Games for over 
+      5 releases spanning 20 games.
+      Also handled external development and integration towards G2s gaming system.
+  - role: Flashdeveloper
+    time: Mar 2009 - Mar 2011
+    company: GTECH G2, Växjö
+    details: |
+      Senior flash developer that oversaw the development of 4 teams consisting of 
+      16 developers spread across the globe (Sweden, UK, Ukraine and India).
+      Designed and developed core functionality for Instant Games while developing
+      multiple highly successful games.
+  - role: Flashdeveloper
+    time: Oct 2007 - Nov 2008
+    company: Svenska Spel, Visby
+    details: |
+      Freelancing for Svenska Spel as part of the team to create a revamped
+      version of the Svenska Spel website. The project, called Nya Svenska Spel,
+      was a huge success.
+  - role: Owner
+    time: Jan 2007 - Nov 2008
+    company: Own Company, Växjö
+    details: |
+      As part of my examination project for John Bauergymnasiet I decided
+      to start and run my own company, which I could continue with after
+      the school had ended. Mainly freelancing for other companies, like
+      Sogeti, I had a lot of fun projects working with companies like Opel and
+      Svenska Spel.
+# projects:
+#   title: Projects
+#   intro: >
+#     You can list your side projects or open source libraries in this
+#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   assignments:
+#     - title: Velocity
+#       link: '#hook'
+#       tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#     - title: DevStudio
+#       link: '#'
+#       tagline: 'A responsive website template designed to help web developers/designers market their services.'
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#     - title: Tempo
+#       link: '#'
+#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#     - title: Atom
+#       link: '#'
+#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#     - title: Delta
+#       link: '#'
+#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+  # title: Publications
+  # intro: |
+  #   You can list your publications in this section. Lorem ipsum dolor sit
+  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+  #   bibendum fringilla a eu lectus.
+  # papers:
+  #   - title: The Art of Computer Programming
+  #     link: '#'
+  #     authors: Donald E. Knuth
+  #     conference: Addison-Wesley, 1968
+  #   - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
+  #     link: '#'
+  #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #     conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
+  #   - title: A syntax directed compiler for Algol 60
+  #     link: '#'
+  #     authors: Edgar T. Irons
+  #     conference: 'Comm. ACM 4 (1961), 51–55'
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: Javascript & Node.js
+      level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: GIT
+      level: 98%
 
-      - name: Angular
-        level: 98%
+    - name: Docker
+      level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Nginx
+      level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: Bash
+      level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: Typescript
+      level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - name: C#
+      level: 70%
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
