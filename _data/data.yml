@@ -177,14 +177,19 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Javascript & Node.js
+    - name: Communication
       level: 98%
+
+    - name: Inspirational
+      level: 98%
+    - name: Javascript & Node.js
+      level: 95%
 
     - name: GIT
-      level: 98%
+      level: 95%
 
     - name: Docker
-      level: 98%
+      level: 95%
 
     - name: Nginx
       level: 85%
