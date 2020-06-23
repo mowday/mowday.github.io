@@ -32,25 +32,16 @@ sidebar:
     - idiom: Swedish
       level: Native
 
-  # interests:
-  #   - item: Climbing
-  #     link:
-  #   - item: Snowboarding
-  #     link:
-  #   - item: Cooking
-  #     link:
-
 career-profile:
   title: Career Profile
   summary: |
-    I’m a highly result-driven individual with great analytical skills that feed on finding 
-    solutions. The harder the situation the more rewarding it is to finally find the solution
-    that will hold.
+    I'm a passionate person that loves talking in front people and letting my passion and
+    curiosity to move me forward. The harder the situation, the more rewarding it is to find
+    the solution that will hold.
 
-    My ability to unite people towards a common goal and vision is one of my key strengths
-    and I love talking in front of people. To inspire and being inspired by stepping out of the
-    comfort zone and seeing what we could do if we reached just a little bit farther, letting
-    passion and curiosity move us forward.
+    My ability to unite people towards a common goal and vision is one of my key strengths.
+    To inspire and be inspired by stepping out of the comfort zone and seeing what we could
+    do if we reached just a little bit farther.
 education:
   - degree: Computer Programming
     university: John Bauergymnasiet
@@ -61,146 +52,94 @@ experiences:
     time: Jan 2019 - Present
     company: IST Group, Växjö
     details: |
-      The need for a solid platform to run tomorrows school software created a new
-      product and department to better focus on the underlying infrastructure. This also
-      included preparing and including functionality to bridge ISTs private cloud with
-      public cloud vendors.
+      To be able to better handle and prepare for the expansion of the company, we needed to
+      focus more on the successful platform created in m previous positon.
+      In my new role as Product Manager for the internal cloud of IST, I continued the development
+      of the platform itself but focused mainly on creating a reliable, transparent and uncomplicated
+      experience for the developers themselves. To aid the developers, we created an ecosystem and
+      community where developers could share best practices and lessons learned while having
+      direct contact with the engineers of the cloud.
   - role: Architect Manager
     time: Dec 2014 - Jan 2019
     company: IST Group, Växjö
     details: |
-      Steering technology choices and improving the developer experience as well
-      as speed and reliability by focusing on creating a solid foundation to build
-      the next generation of school software on. This included switching to GIT to
-      better allow for parallel development. The running of software switched
-      to Docker from traditional hands-on operations, including automatic service
-      discovery, loadbalancing and auto healing capabilities.
+      To be able to build the next generation of school software IST needed a solid foundation.
+      As Architect Manager, I helped by steering technology choices and improving the developer
+      experience as well as speed and reliability. Some changes included switching to GIT to
+      better allow for parallel development. The running of software switched to Docker from
+      traditional hands-on operations, including automatic service discovery, load-balancing
+      and auto-healing capabilities among other features. All of these changes meant a more
+      reliable platform, shorter time to production and less error-prone.
+      The platform became a huge success factor for IST.
   - role: Client Sided Architect
     time: Sep 2013 - Dec 2014
     company: Play'n GO, Växjö
     details: |
-      By utilising the latest technologies Play'N GO delivers some of the markets
-      best mobile based games to date.
-      The client sided architect was responsible for supervising the general game
-      development, integrating the external libraries and optimising the framework
-      to get the best player experience possible.
-      Part of the job also involved developing strategies for parallel development
-      and fast-paced agile deliveries.
+      By utilising the latest technologies, Play’N GO delivers some of the markets best
+      mobile-based games. The client sided architect was responsible for supervising the
+      general game development, integrating the external libraries and optimising the framework
+      to get the best player experience possible. Part of the job also involved developing
+      strategies for parallel development and fast-paced agile deliveries.
   - role: Solution Architect
     time: Apr 2012 - Sep 2013
     company: GTECH G2, London
     details: |
-      Responsible to design and tweak the techinical solution to suit the needs of
-      our customers. Data migration of player accounts, performance, regulatory
-      requirements and security are all a part of the technical solution that needs
-      to be considered.
+      Responsible for designing and tailor the technical solution to suit the customers' needs.
+      Typically consisted of meeting the customer to in-depth understand the needs and requirements.
+      Data migration of player accounts, performance, regulatory requirements and security all
+      needed consideration when tailoring the solution for the customers.
+      One of the most significant projects was delivering the Canadian Bingo Network solution.
   - role: Game Client Architect
     time: Mar 2011 - Apr 2012
     company: GTECH G2, London
     details: |
-      Architect over client sided development and framework. Responsible for the
-      technical design, architecture and build system of Instant Games for over 
-      5 releases spanning 20 games.
-      Also handled external development and integration towards G2s gaming system.
+      Architect over client-sided development and framework. Responsible for the technical design,
+      architecture and build system of Instant Games for over 20 games. Also handled external
+      development and integration towards G2s gaming system.
   - role: Flashdeveloper
     time: Mar 2009 - Mar 2011
     company: GTECH G2, Växjö
     details: |
-      Senior flash developer that oversaw the development of 4 teams consisting of 
-      16 developers spread across the globe (Sweden, UK, Ukraine and India).
-      Designed and developed core functionality for Instant Games while developing
-      multiple highly successful games.
-  - role: Flashdeveloper
-    time: Oct 2007 - Nov 2008
-    company: Svenska Spel, Visby
-    details: |
-      Freelancing for Svenska Spel as part of the team to create a revamped
-      version of the Svenska Spel website. The project, called Nya Svenska Spel,
-      was a huge success.
+      Flash developer that oversaw the development of 4 teams consisting of 16 developers spread
+      across the globe (Sweden, UK, Ukraine and India). Designed and developed core functionality
+      for Instant Games while developing multiple highly successful games.
   - role: Owner
     time: Jan 2007 - Nov 2008
     company: Own Company, Växjö
     details: |
-      As part of my examination project for John Bauergymnasiet I decided
-      to start and run my own company, which I could continue with after
-      the school had ended. Mainly freelancing for other companies, like
-      Sogeti, I had a lot of fun projects working with companies like Opel and
+      As part of my examination project for John Bauergymnasiet, I decided to start and run my own
+      company, which I could continue with after the school had ended. Mainly freelancing for other
+      companies, like Sogeti, I had many rewarding projects working with companies like Opel and
       Svenska Spel.
-# projects:
-#   title: Projects
-#   intro: >
-#     You can list your side projects or open source libraries in this
-#     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   assignments:
-#     - title: Velocity
-#       link: '#hook'
-#       tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
 
-#     - title: DevStudio
-#       link: '#'
-#       tagline: 'A responsive website template designed to help web developers/designers market their services.'
+# skills:
+# title: Skills &amp; Proficiency
 
-#     - title: Tempo
-#       link: '#'
-#       tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
+# toolset:
+#   - name: Communication
+#     level: 98%
 
-#     - title: Atom
-#       link: '#'
-#       tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
+#   - name: Inspirational
+#     level: 98%
+#   - name: Javascript & Node.js
+#     level: 95%
 
-#     - title: Delta
-#       link: '#'
-#       tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
+#   - name: GIT
+#     level: 95%
 
-publications:
-  # title: Publications
-  # intro: |
-  #   You can list your publications in this section. Lorem ipsum dolor sit
-  #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-  #   bibendum fringilla a eu lectus.
-  # papers:
-  #   - title: The Art of Computer Programming
-  #     link: '#'
-  #     authors: Donald E. Knuth
-  #     conference: Addison-Wesley, 1968
-  #   - title: 'Genetic Programming III: Darwinian Invention &amp; Problem Solving'
-  #     link: '#'
-  #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-  #     conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
-  #   - title: A syntax directed compiler for Algol 60
-  #     link: '#'
-  #     authors: Edgar T. Irons
-  #     conference: 'Comm. ACM 4 (1961), 51–55'
+#   - name: Docker
+#     level: 95%
 
-skills:
-  title: Skills &amp; Proficiency
+#   - name: Nginx
+#     level: 85%
 
-  toolset:
-    - name: Communication
-      level: 98%
+#   - name: Bash
+#     level: 80%
 
-    - name: Inspirational
-      level: 98%
-    - name: Javascript & Node.js
-      level: 95%
+#   - name: Typescript
+#     level: 75%
 
-    - name: GIT
-      level: 95%
-
-    - name: Docker
-      level: 95%
-
-    - name: Nginx
-      level: 85%
-
-    - name: Bash
-      level: 80%
-
-    - name: Typescript
-      level: 75%
-
-    - name: C#
-      level: 70%
+#   - name: C#
+#     level: 70%
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
